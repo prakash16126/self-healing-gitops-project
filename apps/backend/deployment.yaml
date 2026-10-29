@@ -27,7 +27,7 @@ spec:
 
       containers:
         - name: backend
-          image: prakash16126/aerodine:ed5f114d09c8ac69a60fa8fdb73b89f2d19c43b1
+          image: prakash16126/aerodine:3b9857d9eb79f9d51d2545feb4f9d8bd216e7bb6
 
           ports:
             - containerPort: 3000
